@@ -125,3 +125,4 @@ pm2 start index.js --name tg-two-way-tool
 本机器人使用一个本地文件 (`setting.json`，由 `db.js` 管理) 来存储所有数据。请务必定期备份此文件，以防数据丢失。
 
 -----
+如需代搭建和定制TG机器人请联系: https://t.me/Twowaytoolbot
