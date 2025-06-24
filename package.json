@@ -1,0 +1,16 @@
+{
+  "name": "Two-way-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "www.9-h.net",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.16.3"
+  }
+}
+    
